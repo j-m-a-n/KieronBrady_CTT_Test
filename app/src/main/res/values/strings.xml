@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kieron Brady - CTT_Test</string>
+
+    <string name="error_noConnection">Could not connect to Vehicle endpoint, check network settings.</string>
+    <string name="error_noVehicleDetails">Could not load vehicle details.</string>
+
+    <string name="vehDetail_VehId">Vehicle ID:</string>
+    <string name="vehDetail_VehVRN">VRN:</string>
+    <string name="vehDetail_VehCountry">Country:</string>
+    <string name="vehDetail_vehColor">Color:</string>
+    <string name="vehDetail_vehType">Type:</string>
+    <string name="vehDetail_vehDefault">Default?</string>
+</resources>
